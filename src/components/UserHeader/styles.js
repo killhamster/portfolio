@@ -1,4 +1,5 @@
 import styled from 'styled-components'
+import { white } from '@carbon/colors'
 
 export const HeaderContainer = styled.div`
   @media (max-width: 640px) {
@@ -18,4 +19,5 @@ export const Image = styled.img`
   width: 200px;
   margin-right: 1rem;
   border-radius: 2px;
+  border: 1px solid ${white};
 `
