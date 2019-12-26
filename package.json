@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "license": "MIT",
-  "homepage": "http://killhamster.github.io/portfolio",
+  "homepage": "https://killhamster.github.io/portfolio",
   "dependencies": {
     "@carbon/icons-react": "^10.6.1",
     "@carbon/themes": "^10.7.0",
